@@ -7,5 +7,6 @@
 @import "./utilities/components.css";
 
 @import "./home/introduction.css";
+@import "./home/technology.css";
 
 @import "./bicycles/list.css";
