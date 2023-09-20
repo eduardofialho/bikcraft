@@ -16,5 +16,7 @@
 @import "./bicycles/bicycles.css";
 
 @import "./insurance/insurance.css";
+@import "./insurance/benefits.css";
+@import "./insurance/questions.css";
 
 @import "./terms/terms.css";
