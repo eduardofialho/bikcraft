@@ -26,4 +26,6 @@
 @import "./contact/contact.css";
 @import "./contact/stores.css";
 
+@import "./budget/budget.css";
+
 @import "./terms/terms.css";
